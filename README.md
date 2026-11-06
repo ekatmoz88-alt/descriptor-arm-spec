@@ -14,6 +14,7 @@ https://ekatmoz88-alt.github.io/descriptor-arm-spec/
 - [docs/04-data-exchange.md](docs/04-data-exchange.md)
 - [docs/05-mobile-station-ui.md](docs/05-mobile-station-ui.md)
 - [docs/06-fonts-and-print.md](docs/06-fonts-and-print.md)
+- [docs/07-trust-levels-security-architecture.md](docs/07-trust-levels-security-architecture.md)
 - [evidence/verification-matrix.md](evidence/verification-matrix.md)
 
 ## Documentation approach
