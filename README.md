@@ -20,3 +20,8 @@ https://ekatmoz88-alt.github.io/descriptor-arm-spec/
 ## Documentation approach
 
 Requirements, interface observations, file evidence, source-code findings and test results are distinguished. Items requiring primary-source confirmation are marked accordingly.
+
+
+## Tags
+
+`arm-descriptor` · `system-architecture` · `requirements` · `hardware-software` · `data-exchange` · `evidence`
