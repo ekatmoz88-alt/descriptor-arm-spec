@@ -1,5 +1,7 @@
 # ARM Descriptor
 
+[English](README.md) | [Русский](README.ru.md)
+
 Technical documentation for the ARM Descriptor document-processing workstation.
 
 ## Published site
