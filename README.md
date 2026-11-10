@@ -1,8 +1,8 @@
-# ARM Descriptor
+# Deshifrator Workstation — Project Specification
 
 [English](README.md) | [Русский](README.ru.md)
 
-Technical documentation for the ARM Descriptor document-processing workstation.
+Project-level technical documentation for the Deshifrator document-processing workstation. The older label “Descriptor” in this repository slug and historical materials refers to the same project, not a separate product.
 
 ## Published site
 
@@ -26,4 +26,4 @@ Requirements, interface observations, file evidence, source-code findings and te
 
 ## Tags
 
-`arm-descriptor` · `system-architecture` · `requirements` · `hardware-software` · `data-exchange` · `evidence`
+`deshifrator` · `system-architecture` · `requirements` · `hardware-software` · `data-exchange` · `evidence`
