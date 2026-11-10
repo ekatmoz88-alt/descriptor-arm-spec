@@ -1,4 +1,4 @@
-# ARM Descriptor — Font Simulation and Print Workflow
+# Deshifrator — Font Simulation and Print Workflow
 
 ## Font configuration
 
