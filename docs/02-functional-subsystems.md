@@ -1,4 +1,4 @@
-# ARM Descriptor — Functional Subsystems
+# Deshifrator — Functional Subsystems
 
 ## Stationary station software (ПОСС)
 
